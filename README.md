@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Counterpoint86
-- 👀 I’m interested in C++ programming and 6502 Assembly.
-- 🌱 I’m currently learning 6502 Assembly and reacquainting myself with C++ after not programming for several years.
+- 👀 I’m interested in Salesforce development, C++ programming, and 6502 Assembly.
+- 🌱 I’m currently ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at nathanaking.com
 
