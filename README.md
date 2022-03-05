@@ -8,8 +8,7 @@ Salesforce Technical Lead | Open Source Advocate
 
 #### Languages I'm fluent in: 
 - Apex
-- C++
 - HTML/CSS
+- Python
 - Java
-- JavaScript
 - Shell Script
